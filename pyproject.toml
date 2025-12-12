@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-resolution-suggest-downscale"
+version = "0.1.0"
+description = "Resolution suggestion and downscale helper node for ComfyUI."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/TuonoMindCode/ComfyUI-Resolution-Suggest-Downscale"
+
+[tool.comfy]
+PublisherId = "TODO_PUBLISHER_ID"
+DisplayName = "Resolution Suggest & Downscale"
+Icon = ""
+
+
